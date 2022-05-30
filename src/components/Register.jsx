@@ -16,7 +16,16 @@ export const Register = () => {
     return (
         <div>
             {data.map((user) => (
-            <div>{user.id.username}</div>)
+                <div>
+                    <div>{user.username}</div>
+                    <div>{user.email}</div>
+                </div>)
+            )}
+            {data1.map((user) => (
+                <div>
+                    <div>{user.address}</div>
+                    <div>{user.number}</div>
+                </div>)
             )}
         </div>
     )
