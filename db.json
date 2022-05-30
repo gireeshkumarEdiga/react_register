@@ -1,0 +1,30 @@
+{
+  "one": [
+    {
+      "username": "Girish",
+      "email": "egireeshkumar99@gmail.com",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "username": "ediga",
+      "email": "abdulece247@gmail.com",
+      "status": "false",
+      "id": 2
+    }
+  ],
+  "two": [
+    {
+      "address": "D. No :6-5, old lepakshi (street) , lepakshi",
+      "number": "7997432307",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "address": "12-199,K V S NAGAR,BUKKURAYASAMUDRAM MANDAL",
+      "number": "79974",
+      "status": "false",
+      "id": 2
+    }
+  ]
+}
